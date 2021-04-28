@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400,600&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    overflow: hidden;
+    color: #F1F1E8;
+}
+.header {
+    position: fixed;
+    width: 100%;
+    height: 60px;
+}
+.logo {
+    position: relative;
+    width: 200px;
+    height: 55px;
+    background-color: #000;
+    opacity: 66%;
+}
+.logo img {
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 60px;
+    height: 50px;
+    float: left;
+}
+.logo h3 {
+    margin-top: 25px;
+    margin-left: 20px;
+    color:#40A909;
+    font-weight: bold;
+}
+/* nav {
+    background-color: transparent;
+    padding: 0px !important;
+}
+nav .container-fluid {
+    padding: 0px;
+    margin: 0px;
+} */
+.nav-item {
+    float: right;
+}
+.nav-item a {
+    text-decoration: none;  
+    padding: 21px 20px 10px 20px;
+    color: #c0dab3;
+    font-size: 16px;
+}
+.nav-item .active {
+    border-bottom: 2px solid #5CF909;
+    color: #fff;
+}
+.nav-item a:hover {
+    color: #fff;
+    border-bottom: 2px solid #5CF909;
+}
+
+.nav-item:nth-last-child(1) a {
+    background-color: rgba(0, 0, 0, 0.66);
+    border-bottom: 2px solid #5CF909;
+}
+.font1 {
+    background-image: url(assets/font1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.introduction {
+    width: 500px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.49);
+    margin-left: 15vw;
+    margin-top: 150px !important;
+}
+.introduction h2 {
+    font-size: 36px;
+    padding: 15px 25px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.introduction h6 {
+    display: inline;
+    font-size: 18px;
+    margin-left: 20px;
+    padding: 15px 25px 15px 25px;
+    font-weight: 500;
+    border-bottom: 2px solid #5CF909;
+}
+.carousel {
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.65);
+    height: 170px;
+    position: absolute;
+    bottom: 20px;
+    padding: 0px 40px;
+}
+.carousel-item img {
+    height: 170px;;
+}
+/* carousel 4 items  */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Show 4th slide on md if col-md-4*/
+    .carousel-inner .active.col-md-4.carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -33.3333%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+    /* Show 3rd slide on sm if col-sm-6*/
+    .carousel-inner .active.col-sm-6.carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -50%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+}
+@media (min-width: 576px) {
+    .carousel-item {
+        margin-right: 0;
+    }
+    /* show 2 items */
+    .carousel-inner .active + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+    .carousel-item-next.carousel-item-left + .carousel-item,
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* farthest right hidden item must be also positioned for animations */
+    .carousel-inner .carousel-item-prev.carousel-item-right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+    .carousel-item-prev.carousel-item-right + .carousel-item,
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* MD */
+@media (min-width: 768px) {
+    /* show 3rd of 3 item slide */
+    .carousel-inner .active + .carousel-item + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* LG */
+@media (min-width: 991px) {
+    /* show 4th item */
+    .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    /* Show 5th slide on lg if col-lg-3 */
+    .carousel-inner .active.col-lg-3.carousel-item + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -25%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction //t - previous slide direction last item animation fix */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* End Carousel 4 items */
+
+
+
+/* Small 576px and up) */
+@media (max-width: 576px) { 
+    .name {
+        display: none;
+    }
+    .logo {
+        width: 55px !important;
+    }
+    .logo img{
+        margin-left: 5px;
+    }
+
+ }
+
+/* Medium 768px and up */
+@media (max-width: 768px) { 
+    .name {
+        display: none;
+    }
+    .introduction {
+        width: 400px;
+        height: 240px;
+        margin: 0 auto;
+    }
+    .introduction h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .introduction h6 {
+        font-size: 16px;
+        
+    }
+ }
+
+/* Large 992px and up */
+@media (max-width: 992px) { 
+    .name {
+        display: none;
+    }
+ }
+
+/* Extra large 1200px and up */
+@media (max-width: 1200px) { 
+
+ }

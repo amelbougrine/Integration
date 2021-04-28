@@ -1,0 +1,1833 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__1 {
+    position: absolute;
+    width: 1920px;
+    height: 4811px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#_c {
+    left: 1334px;
+    top: 562px;
+    position: absolute;
+    overflow: visible;
+    width: 1px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#Rectangle_32 {
+    fill: rgba(32,106,93,1);
+}
+.Rectangle_32 {
+    position: absolute;
+    overflow: visible;
+    width: 1922px;
+    height: 1272px;
+    left: -2px;
+    top: 1116px;
+}
+#Rectangle_16 {
+    fill: rgba(191,220,174,0.361);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_16 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 624px;
+    left: 0px;
+    top: 2385px;
+}
+#cloud2 {
+    position: absolute;
+    width: 2338px;
+    height: 1180.948px;
+    left: -209px;
+    top: 2156.598px;
+    overflow: visible;
+}
+#cloud2_l {
+    position: absolute;
+    width: 2338px;
+    height: 1180.948px;
+    left: -303px;
+    top: 1293px;
+    overflow: visible;
+}
+#ID13-1_c {
+    position: absolute;
+    width: 1920px;
+    height: 1116px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Help_c {
+    left: 1517px;
+    top: 37px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Contact_c {
+    left: 1656px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Rectangle_31 {
+    opacity: 0.35;
+    fill: rgba(1,1,1,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_31 {
+    position: absolute;
+    overflow: visible;
+    width: 84px;
+    height: 91px;
+    left: 1817px;
+    top: 0px;
+}
+#En_db {
+    left: 1842px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(130,255,52,1);
+    letter-spacing: 0.7px;
+}
+#Trac_10 {
+    fill: transparent;
+}
+.Trac_10 {
+    overflow: visible;
+    position: absolute;
+    width: 48px;
+    height: 60px;
+    left: 1541.5px;
+    top: 744px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_8 {
+    opacity: 0.66;
+    fill: rgba(0,0,0,1);
+}
+.Rectangle_8 {
+    position: absolute;
+    overflow: visible;
+    width: 486px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+}
+#Our_Mission {
+    left: 724px;
+    top: 1210px;
+    position: absolute;
+    overflow: visible;
+    width: 473px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    color: rgba(97,195,33,1);
+    letter-spacing: 2px;
+}
+#Duplexque_isdem_diebus_accider {
+    filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 1));
+    left: 237px;
+    top: 1340px;
+    position: absolute;
+    overflow: hidden;
+    width: 1448px;
+    height: 170px;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(241,241,232,1);
+    letter-spacing: 0.7px;
+}
+#Groupe_de_masques_1 {
+    position: absolute;
+    width: 234px;
+    height: 87px;
+    left: 134px;
+    top: 2625px;
+    overflow: visible;
+}
+#Our_area_of_Intervention {
+    left: 575px;
+    top: 2479px;
+    position: absolute;
+    overflow: visible;
+    width: 771px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    color: rgba(51,49,47,1);
+    letter-spacing: 0.7px;
+}
+#Duplexque_isdem_diebus_accider_x {
+    left: 79px;
+    top: 2725px;
+    position: absolute;
+    overflow: hidden;
+    width: 512px;
+    height: 170px;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(57,52,52,1);
+    letter-spacing: 0.7px;
+}
+#Duplexque_isdem_diebus_accider_y {
+    left: 1331px;
+    top: 2725px;
+    position: absolute;
+    overflow: hidden;
+    width: 512px;
+    height: 170px;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(57,52,52,1);
+    letter-spacing: 0.7px;
+}
+#Selling {
+    left: 309px;
+    top: 2646px;
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(51,49,47,1);
+    letter-spacing: 0.7px;
+}
+#Buing {
+    left: 966px;
+    top: 2646px;
+    position: absolute;
+    overflow: visible;
+    width: 121px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(51,49,47,1);
+    letter-spacing: 0.7px;
+}
+#Renovate {
+    left: 1552px;
+    top: 2646px;
+    position: absolute;
+    overflow: visible;
+    width: 201px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(51,49,47,1);
+    letter-spacing: 0.7px;
+}
+#domain_disabled_black_24dp {
+    position: absolute;
+    width: 80.143px;
+    height: 86.643px;
+    left: 1452.286px;
+    top: 2626.429px;
+    overflow: visible;
+}
+#Trac_13 {
+    fill: transparent;
+}
+.Trac_13 {
+    overflow: visible;
+    position: absolute;
+    width: 80.143px;
+    height: 86.643px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Trac_14 {
+    fill: rgba(32,106,93,1);
+}
+.Trac_14 {
+    overflow: visible;
+    position: absolute;
+    width: 78.343px;
+    height: 84.843px;
+    left: 0.1px;
+    top: 1.8px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#storefront_black_24dp {
+    position: absolute;
+    width: 86px;
+    height: 70px;
+    left: 854px;
+    top: 2626px;
+    overflow: visible;
+}
+#Groupe_6 {
+    position: absolute;
+    width: 86px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_15 {
+    fill: transparent;
+}
+.Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 86px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+}
+#Groupe_8 {
+    position: absolute;
+    width: 81.994px;
+    height: 64.142px;
+    left: 2.005px;
+    top: 2.857px;
+    overflow: visible;
+}
+#Groupe_7 {
+    position: absolute;
+    width: 81.994px;
+    height: 64.142px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Trac_15 {
+    fill: rgba(32,106,93,1);
+}
+.Trac_15 {
+    overflow: visible;
+    position: absolute;
+    width: 81.994px;
+    height: 64.143px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Duplexque_isdem_diebus_accider_bb {
+    left: 705px;
+    top: 2725px;
+    position: absolute;
+    overflow: hidden;
+    width: 512px;
+    height: 170px;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(57,52,52,1);
+    letter-spacing: 0.7px;
+}
+#Rectangle_30 {
+    opacity: 0.65;
+    fill: rgba(6,6,6,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_30 {
+    filter: drop-shadow(0px 0px 20px rgba(0, 0, 0, 1));
+    position: absolute;
+    overflow: visible;
+    width: 1980px;
+    height: 290px;
+    left: 0px;
+    top: 850px;
+}
+#adina-apartment-hotel-frankfur_df {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 63px;
+    top: 850px;
+    overflow: visible;
+}
+#NDS00020140041597232_sized_800_dg {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 524px;
+    top: 850px;
+    overflow: visible;
+}
+#ID85147513_dh {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 984px;
+    top: 850px;
+    overflow: visible;
+}
+#adina-apartment-hotel-frankfur_di {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 1445px;
+    top: 850px;
+    overflow: visible;
+}
+#Home_dj {
+    left: 797px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_11 {
+    fill: transparent;
+    stroke: rgba(128,214,64,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_11 {
+    overflow: visible;
+    position: absolute;
+    width: 120px;
+    height: 4px;
+    left: 778.5px;
+    top: 90.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#DSC_4354 {
+    filter: drop-shadow(0px 0px 30px rgba(7, 7, 7, 0.988));
+    position: absolute;
+    width: 1920px;
+    height: 734px;
+    left: 0px;
+    top: 1560px;
+    overflow: visible;
+}
+#WE_OFFER_YOU_THE_BEST_DEALS_IN {
+    filter: drop-shadow(0px 0px 10px rgba(143, 158, 155, 1));
+    left: 309px;
+    top: 1666px;
+    position: absolute;
+    overflow: visible;
+    width: 1303px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(33,32,32,1);
+    letter-spacing: 0.7px;
+    text-transform: lowercase;
+}
+#Ligne_12 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_12 {
+    overflow: visible;
+    position: absolute;
+    width: 10px;
+    height: 1px;
+    left: 773.5px;
+    top: 1357.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Searsh {
+    left: 952px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Buy_dm {
+    left: 1122px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 55px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Rent_dn {
+    left: 1246px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Sell_do {
+    left: 1391px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 57px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_13 {
+    fill: transparent;
+    stroke: rgba(128,245,54,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_13 {
+    overflow: visible;
+    position: absolute;
+    width: 83.5px;
+    height: 3px;
+    left: 1817px;
+    top: 90.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_14 {
+    fill: transparent;
+    stroke: rgba(51,49,47,1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_14 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 7px;
+    left: 0.5px;
+    top: 1116.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_29 {
+    opacity: 0.49;
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_29 {
+    filter: drop-shadow(0px 0px 20px rgba(9, 8, 8, 1));
+    position: absolute;
+    overflow: visible;
+    width: 1056px;
+    height: 551px;
+    left: 63px;
+    top: 250px;
+}
+#Connecting_people__and_proprie_dr {
+    left: 138px;
+    top: 303px;
+    position: absolute;
+    overflow: visible;
+    width: 805px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    color: rgba(241,241,232,1);
+    letter-spacing: 0.2px;
+}
+#Buy_ds {
+    left: 191px;
+    top: 624px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Rent_dt {
+    left: 420px;
+    top: 624px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Sell_du {
+    left: 673px;
+    top: 624px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_8 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_8 {
+    overflow: visible;
+    position: absolute;
+    width: 167px;
+    height: 3px;
+    left: 146.5px;
+    top: 682.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_9 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_9 {
+    overflow: visible;
+    position: absolute;
+    width: 167px;
+    height: 3px;
+    left: 378px;
+    top: 682.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_10 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_10 {
+    overflow: visible;
+    position: absolute;
+    width: 167px;
+    height: 3px;
+    left: 622.5px;
+    top: 682.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_29_b {
+    opacity: 0.6;
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_29_b {
+    filter: drop-shadow(0px 0px 20px rgba(9, 8, 8, 1));
+    position: absolute;
+    overflow: visible;
+    width: 1019px;
+    height: 472px;
+    left: 481px;
+    top: 1799px;
+}
+#Duplexque_isdem_diebus_accider_b {
+    left: 556px;
+    top: 1960px;
+    position: absolute;
+    overflow: visible;
+    width: 839px;
+    height: 170px;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Explore {
+    left: 566px;
+    top: 2088px;
+    position: absolute;
+    overflow: visible;
+    width: 145px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_8_b {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_8_b {
+    overflow: visible;
+    position: absolute;
+    width: 180px;
+    height: 3px;
+    left: 546px;
+    top: 2145px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#A_Long_term_credit {
+    left: 556px;
+    top: 1877px;
+    position: absolute;
+    overflow: visible;
+    width: 525px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(191,220,174,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_17 {
+    fill: transparent;
+    stroke: rgba(82,84,82,1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_17 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 7px;
+    left: 0px;
+    top: 3009px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#RS_dy {
+    left: 196px;
+    top: 53px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(64,169,9,1);
+}
+#istockphoto-1176559227-612x612_dz {
+    position: absolute;
+    width: 164px;
+    height: 114px;
+    left: 39px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_21 {
+    fill: rgba(32,106,93,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_21 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 760px;
+    left: 0px;
+    top: 4057.526px;
+}
+#cloud2_b {
+    position: absolute;
+    width: 2338px;
+    height: 1180.948px;
+    left: -252px;
+    top: 4383.526px;
+    overflow: visible;
+}
+#Rectangle_23 {
+    fill: rgba(86,229,12,1);
+}
+.Rectangle_23 {
+    position: absolute;
+    overflow: visible;
+    width: 208px;
+    height: 61px;
+    left: 1335px;
+    top: 4425.526px;
+}
+#Ligne_4 {
+    fill: transparent;
+    stroke: rgba(86,229,12,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_4 {
+    overflow: visible;
+    position: absolute;
+    width: 511px;
+    height: 4px;
+    left: 1335px;
+    top: 4393.526px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Enter_you_Email_address {
+    left: 1335px;
+    top: 4339.526px;
+    position: absolute;
+    overflow: visible;
+    width: 335px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    color: rgba(165,174,160,1);
+    letter-spacing: 0.7px;
+}
+#Send {
+    left: 1400px;
+    top: 4439.526px;
+    position: absolute;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(93,90,90,1);
+    letter-spacing: 0.7px;
+}
+#Sign_up_to_our_newsletter {
+    left: 1335px;
+    top: 4256.526px;
+    position: absolute;
+    overflow: visible;
+    width: 395px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Contact_cf {
+    left: 1031px;
+    top: 4256.526px;
+    position: absolute;
+    overflow: visible;
+    width: 121px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#About_Us {
+    left: 700px;
+    top: 4256.526px;
+    position: absolute;
+    overflow: visible;
+    width: 141px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Our_Partners {
+    left: 698px;
+    top: 4313.526px;
+    position: absolute;
+    overflow: visible;
+    width: 199px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Our_Offers {
+    left: 695px;
+    top: 4366px;
+    position: absolute;
+    overflow: visible;
+    width: 165px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Help_cj {
+    left: 1031px;
+    top: 4366px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Support {
+    left: 1033px;
+    top: 4313.526px;
+    position: absolute;
+    overflow: visible;
+    width: 123px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#istockphoto-1176559227-612x612_cl {
+    position: absolute;
+    width: 213px;
+    height: 148px;
+    left: 169px;
+    top: 4182.526px;
+    overflow: visible;
+}
+#RS_cm {
+    left: 382px;
+    top: 4240.526px;
+    position: absolute;
+    overflow: visible;
+    width: 105px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(255,255,255,1);
+}
+#ID573d6c99bb3aeaeb0c043b341d36 {
+    position: absolute;
+    width: 269px;
+    height: 64.776px;
+    left: 184px;
+    top: 4413.5px;
+    overflow: visible;
+}
+#Ligne_19 {
+    fill: transparent;
+    stroke: rgba(101,99,99,1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_19 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 7px;
+    left: 0px;
+    top: 1560px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_20 {
+    fill: transparent;
+    stroke: rgba(101,99,99,1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_20 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 7px;
+    left: 0px;
+    top: 2293px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#photo-1494526585095-c417462481 {
+    position: absolute;
+    width: 1922px;
+    height: 1050px;
+    left: -2px;
+    top: 3010px;
+    overflow: visible;
+}
+#Rectangle_33 {
+    opacity: 0.59;
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_33 {
+    filter: drop-shadow(0px 0px 20px rgba(9, 8, 8, 1));
+    position: absolute;
+    overflow: visible;
+    width: 726px;
+    height: 997px;
+    left: 79px;
+    top: 3067px;
+}
+#Our_Partners_cs {
+    left: 181px;
+    top: 3158px;
+    position: absolute;
+    overflow: visible;
+    width: 463px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    color: rgba(241,241,232,1);
+    letter-spacing: 0.2px;
+}
+#Architecture {
+    left: 143.5px;
+    top: 3471px;
+    position: absolute;
+    overflow: visible;
+    width: 240px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_18 {
+    fill: transparent;
+    stroke: rgba(51,49,47,1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_18 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 7px;
+    left: 0.5px;
+    top: 4062px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_21 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_21 {
+    overflow: visible;
+    position: absolute;
+    width: 240px;
+    height: 3px;
+    left: 143px;
+    top: 3529.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Construction {
+    left: 143.5px;
+    top: 3563.5px;
+    position: absolute;
+    overflow: visible;
+    width: 245px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_22 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_22 {
+    overflow: visible;
+    position: absolute;
+    width: 240px;
+    height: 3px;
+    left: 143px;
+    top: 3622px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Interior_Design {
+    left: 144px;
+    top: 3640.5px;
+    position: absolute;
+    overflow: visible;
+    width: 286px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_23 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_23 {
+    overflow: visible;
+    position: absolute;
+    width: 286px;
+    height: 3px;
+    left: 143.5px;
+    top: 3699px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Bonks {
+    left: 144px;
+    top: 3717.5px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_24 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_24 {
+    overflow: visible;
+    position: absolute;
+    width: 113px;
+    height: 3px;
+    left: 143.5px;
+    top: 3771px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Subcontractor {
+    left: 144px;
+    top: 3794.5px;
+    position: absolute;
+    overflow: visible;
+    width: 269px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_25 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_25 {
+    overflow: visible;
+    position: absolute;
+    width: 269px;
+    height: 3px;
+    left: 143.5px;
+    top: 3853px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Duplexque_isdem_diebus_accider_c {
+    left: 143px;
+    top: 3290px;
+    position: absolute;
+    overflow: visible;
+    width: 540px;
+    height: 170px;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(196,183,183,1);
+    letter-spacing: 0.7px;
+}
+#Follow_us_on {
+    left: 194.5px;
+    top: 4366px;
+    position: absolute;
+    overflow: visible;
+    width: 193px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(86,229,12,1);
+    letter-spacing: 0.7px;
+}
+#_c {
+    left: 1334px;
+    top: 562px;
+    position: absolute;
+    overflow: visible;
+    width: 1px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#ID13-1_c {
+    position: absolute;
+    width: 1920px;
+    height: 1116px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Help_c {
+    left: 1517px;
+    top: 37px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Contact_c {
+    left: 1656px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Rectangle_34 {
+    opacity: 0.35;
+    fill: rgba(1,1,1,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_34 {
+    position: absolute;
+    overflow: visible;
+    width: 84px;
+    height: 91px;
+    left: 1817px;
+    top: 0px;
+}
+#En_db {
+    left: 1842px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(130,255,52,1);
+    letter-spacing: 0.7px;
+}
+#Trac_16 {
+    fill: transparent;
+}
+.Trac_16 {
+    overflow: visible;
+    position: absolute;
+    width: 48px;
+    height: 60px;
+    left: 1541.5px;
+    top: 744px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_35 {
+    opacity: 0.66;
+    fill: rgba(0,0,0,1);
+}
+.Rectangle_35 {
+    position: absolute;
+    overflow: visible;
+    width: 486px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_36 {
+    opacity: 0.65;
+    fill: rgba(6,6,6,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_36 {
+    filter: drop-shadow(0px 0px 20px rgba(0, 0, 0, 1));
+    position: absolute;
+    overflow: visible;
+    width: 1980px;
+    height: 290px;
+    left: 0px;
+    top: 850px;
+}
+#adina-apartment-hotel-frankfur_df {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 63px;
+    top: 850px;
+    overflow: visible;
+}
+#NDS00020140041597232_sized_800_dg {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 524px;
+    top: 850px;
+    overflow: visible;
+}
+#ID85147513_dh {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 984px;
+    top: 850px;
+    overflow: visible;
+}
+#adina-apartment-hotel-frankfur_di {
+    filter: drop-shadow(0px 0px 10px rgba(4, 4, 4, 1));
+    position: absolute;
+    width: 413px;
+    height: 230px;
+    left: 1445px;
+    top: 850px;
+    overflow: visible;
+}
+#Home_dj {
+    left: 797px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_26 {
+    fill: transparent;
+    stroke: rgba(128,214,64,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_26 {
+    overflow: visible;
+    position: absolute;
+    width: 120px;
+    height: 4px;
+    left: 778.5px;
+    top: 90.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Search {
+    left: 952px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Buy_dm {
+    left: 1122px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 55px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Rent_dn {
+    left: 1246px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Sell_do {
+    left: 1391px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 57px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(222,217,217,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_27 {
+    fill: transparent;
+    stroke: rgba(128,245,54,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_27 {
+    overflow: visible;
+    position: absolute;
+    width: 83.5px;
+    height: 3px;
+    left: 1817px;
+    top: 90.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_37 {
+    opacity: 0.49;
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_37 {
+    filter: drop-shadow(0px 0px 20px rgba(9, 8, 8, 1));
+    position: absolute;
+    overflow: visible;
+    width: 1056px;
+    height: 551px;
+    left: 63px;
+    top: 250px;
+}
+#Connecting_people__and_proprie_dr {
+    left: 138px;
+    top: 303px;
+    position: absolute;
+    overflow: visible;
+    width: 805px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+    color: rgba(241,241,232,1);
+    letter-spacing: 0.2px;
+}
+#Buy_ds {
+    left: 191px;
+    top: 624px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Rent_dt {
+    left: 420px;
+    top: 624px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Sell_du {
+    left: 673px;
+    top: 624px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.7px;
+}
+#Ligne_28 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_28 {
+    overflow: visible;
+    position: absolute;
+    width: 167px;
+    height: 3px;
+    left: 146.5px;
+    top: 682.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_29 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_29 {
+    overflow: visible;
+    position: absolute;
+    width: 167px;
+    height: 3px;
+    left: 378px;
+    top: 682.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_30 {
+    fill: transparent;
+    stroke: rgba(92,249,9,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ligne_30 {
+    overflow: visible;
+    position: absolute;
+    width: 167px;
+    height: 3px;
+    left: 622.5px;
+    top: 682.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#RS_dy {
+    left: 196px;
+    top: 53px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(64,169,9,1);
+}
+#istockphoto-1176559227-612x612_dz {
+    position: absolute;
+    width: 164px;
+    height: 114px;
+    left: 39px;
+    top: 0px;
+    overflow: visible;
+}
